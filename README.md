@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, meu nome é Gabriel! 👋</h1>
+<h1 align="center">Welcome! 👋</h1>
 
 ###
 
@@ -7,12 +7,6 @@
 
 ###
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software em nuvem.
-<br>
-🎓 Estudante de <strong>TADS</strong> no <strong>IFES</strong>.
-<br>
-🌱 Aprendendo mais sobre tecnologias que envolvam Iac.
-###
 <h3 align="center">🛠 Language and tools</h3>
 
 ##
