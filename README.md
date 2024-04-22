@@ -3,9 +3,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
 
-###
 
 <h3 align="center">🛠 Language and tools</h3>
 
