@@ -6,7 +6,7 @@
 ## _Sobre mim..._
 <img src="https://github-readme-stats.vercel.app/api?username=gabrielsantos-cloud&show_icons=true&theme=transparent&title_color=3181F6&icon_color=aaaaaa&text_color=aaaaaa&card_width=100&text_bold=false&count_private=true&hide_border=true&hide_rank=true" alt="Estatísticas do Github de Gabriel Santos" align="right"/>
 
-- Estudante de [**Análise e Desenvolvimento de Sistemas**](https://alegre.ifes.edu.br/index.php/component/content/article/2-uncategorised/17704-tecnologia-em-analise-e-desenvolvimento-de-sistemas) no [**Instituto Federal do Espírito Santo**](https://alegre.ifes.edu.br/index.php/component/content/article/2-uncategorised/17704-tecnologia-em-analise-e-desenvolvimento-de-sistemas)
+- Sou estudante de [**ADS**](https://alegre.ifes.edu.br/index.php/component/content/article/2-uncategorised/17704-tecnologia-em-analise-e-desenvolvimento-de-sistemas) no [**Instituto Federal do Espírito Santo**](https://alegre.ifes.edu.br/)
 - Estudante de DevOps na [**Alura**](https://www.alura.com.br/) pelo programa [**Desenvolve**](https://desenvolve.grupoboticario.com.br/) do [**Grupo Boticário**](https://www.grupoboticario.com.br/)
 - 20 anos
 - Nacionalidade brasileira
@@ -37,6 +37,8 @@
 
 ## Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-devops/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsantosbomjesus@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5527999479053)
 
 <br>
 
