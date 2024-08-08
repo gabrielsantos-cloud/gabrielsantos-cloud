@@ -10,7 +10,7 @@
 
 
 - Sou estudante de [**ADS**](https://alegre.ifes.edu.br/index.php/component/content/article/2-uncategorised/17704-tecnologia-em-analise-e-desenvolvimento-de-sistemas) no [**Instituto Federal do Espírito Santo**](https://alegre.ifes.edu.br/)
-- Estudante DevOps na [**Alura**](https://www.alura.com.br/) pelo programa [**Desenvolve**](https://desenvolve.grupoboticario.com.br/) do [**Grupo Boticário**](https://www.grupoboticario.com.br/)
+- Estudante DevOps pelo programa [**Desenvolve**](https://desenvolve.grupoboticario.com.br/) do [**Grupo Boticário**](https://www.grupoboticario.com.br/)
 - 20 anos
 - Nacionalidade brasileira
 
@@ -34,9 +34,9 @@
 <main>
     <div>
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />  
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />    
+        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     </div>    
 </main>
 
